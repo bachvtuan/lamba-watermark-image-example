@@ -1,0 +1,1 @@
+# lamba-watermark-image-example
